@@ -1,2 +1,3 @@
 # jueeg
-EEG Data Analysis at FZJ 
+EEG Data Analysis used at INM-3 (FZJ) 
+
